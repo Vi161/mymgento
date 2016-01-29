@@ -28,21 +28,24 @@
  */
 ?>
 
-<div class="header-language-background row">
-    <div class="header-language-container col-md-2 col-sm-2">
-        <div class="store-language-container ">
-            <?php echo $this->getChildHtml('store_language') ?>
+<div class="header-language-background ">
+    <div class="header-language-container row">
+        <div class="col-md-2 col-sm-2">
+            <div class="store-language-container ">
+                <?php echo $this->getChildHtml('store_language') ?>
+            </div>
+
+            <?php //echo $this->getChildHtml('currency_switcher') ?>
+
+            <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getChildHtml('accountLinks') ?></p>
         </div>
 
-        <?php //echo $this->getChildHtml('currency_switcher') ?>
-
-        <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getChildHtml('accountLinks') ?></p>
-    </div>
-    <div class="wrapper_header_top_links col-md-8 col-sm-8">
-        <?php echo $this->getChildHtml('header_top_links') ?>
-    </div>
-    <div class="wrapper_links col-md-2 col-sm-2">
-        <?php echo $this->getChildHtml('topLinks') ?>
+        <div class="wrapper_header_top_links col-md-8 col-sm-8">
+            <?php echo $this->getChildHtml('header_top_links') ?>
+        </div>
+        <div class="wrapper_links col-md-2 col-sm-2">
+            <?php echo $this->getChildHtml('topLinks') ?>
+        </div>
     </div>
 </div>
 
@@ -58,10 +61,7 @@
         <div class="store-language-container"></div>
 
         <!-- Skip Links -->
-        <a href="#header-nav" class="skip-link skip-nav">
-            <span class="icon"></span>
-            <span class="label"><?php echo $this->__('Menu'); ?></span>
-        </a>
+
         <div class="skip-links">
 
 

@@ -33,12 +33,21 @@
     <default translate="label" module="page">
         <label>All Pages</label>
         <block type="page/html" name="root" output="toHtml" template="page/3columns.phtml">
+            <block type="core/template" name="mobile_menu" template="page/html/mobile_menu.phtml">
+                <block type="core/text_list" name="top.menu" as="topMenu" translate="label">
+                    <label>Navigation Bar</label>
+                    <block type="page/html_topmenu" name="catalog.topnav" template="page/html/topmenu.phtml">
+                        <block type="page/html_topmenu_renderer" name="catalog.topnav.renderer" template="page/html/topmenu/renderer.phtml"/>
+                    </block>
+                </block>
+            </block>
 
             <block type="page/html_head" name="head" as="head">
                 <action method="addCss"><stylesheet>css/bootstrap.css</stylesheet></action>
                 <action method="addJs"><script>js/jquery-1.11.0.min.js</script></action>
                 <action method="addJs"><script>js/bootstrap.min.js</script></action>
                 <action method="addJs"><script>js/select.js</script></action>
+
 
                 <action method="addJs"><script>prototype/prototype.js</script></action>
                 <action method="addJs"><script>lib/jquery/jquery-1.10.2.min.js</script></action>
@@ -74,6 +83,8 @@
                 <action method="addLinkRel"><rel>stylesheet</rel><href>//fonts.googleapis.com/css?family=Raleway:300,400,500,700,600</href></action>
                 <action method="addItem"><type>skin_js</type><name>js/minicart.js</name></action>
 
+                <action method="addItem"><type>skin_js</type><name>js/pushy.js</name></action>
+
                 <!-- Add stylesheets with no media queries for use in IE 8 and below -->
                 <action method="addItem"><type>skin_css</type><name>css/styles-ie8.css</name><params/><if><![CDATA[ (lte IE 8) & (!IEMobile)]]></if></action>
                 <action method="addItem"><type>skin_css</type><name>css/madisonisland-ie8.css</name><params/><if><![CDATA[ (lte IE 8) & (!IEMobile)]]></if></action>
@@ -99,6 +110,9 @@
                     <action method="setBlockId"><block_id>header_top_links</block_id></action>
                 </block>
                 <block type="page/template_links" name="top.links" as="topLinks"/>
+
+
+
                 <block type="page/switch" name="store_language" as="store_language" template="page/switch/languages.phtml"/>
                 <block type="core/text_list" name="top.menu" as="topMenu" translate="label">
                     <label>Navigation Bar</label>

@@ -54,6 +54,9 @@ Default layout, loads most of the pages
                 </block>
             </block>
         </reference>
+        <reference name="mobile_menu">
+            <block type="checkout/cart_minicart" name="minicart_head_mobile" template="checkout/cart/minicart.mobile.phtml"/>
+        </reference>
 
         <reference name="right">
             <!--<block type="checkout/cart_sidebar" name="cart_sidebar" template="checkout/cart/sidebar.phtml" before="-">-->
