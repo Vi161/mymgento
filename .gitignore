@@ -1,0 +1,23 @@
+/.idea/
+.DS_Store
+### Magento template
+#.htaccess.sample
+.modgit/
+.modman/
+/develop/
+app/etc/local.xml
+
+/media/
+!media/customer/.htaccess
+!media/dhl/logo.jpg
+!media/downloadable/.htaccess
+!media/.htaccess
+#media/xmlconnect/
+
+sitemap.xml
+
+/var/
+!var/.htaccess
+!var/package
+
+skin/frontend/ultimo/default/css/_config/
