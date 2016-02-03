@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.phtml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="52" selection-start="3631" selection-end="3631" vertical-scroll-proportion="-5.627451" vertical-offset="1073" max-vertical-offset="1581">
+            <state line="101" column="0" selection-start="3466" selection-end="3649" vertical-scroll-proportion="0.6021841" vertical-offset="940" max-vertical-offset="1581">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="51" selection-start="8102" selection-end="8102" vertical-scroll-proportion="0.83497536" vertical-offset="1820" max-vertical-offset="4658">
+            <state line="127" column="51" selection-start="8102" selection-end="8102" vertical-scroll-proportion="0.0" vertical-offset="1820" max-vertical-offset="4658">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10745" column="0" selection-start="232841" selection-end="232841" vertical-scroll-proportion="-12.6" vertical-offset="182350" max-vertical-offset="188666">
+            <state line="10758" column="5" selection-start="233216" selection-end="233216" vertical-scroll-proportion="0.0" vertical-offset="182350" max-vertical-offset="188666">
               <folding />
             </state>
           </provider>
@@ -130,7 +130,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -983,6 +982,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1075,10 +1075,9 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33238637" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22647849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22916667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33660588" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -1086,10 +1085,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33238637" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1107,9 +1107,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22647849" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1136,9 +1136,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/bundle.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="121" selection-start="3632" selection-end="3668" vertical-scroll-proportion="0.37700534" vertical-offset="1287" max-vertical-offset="6613">
-          <folding />
-        </state>
+        <state line="84" column="121" selection-start="3632" selection-end="3668" vertical-scroll-proportion="0.37700534" vertical-offset="1287" max-vertical-offset="6613" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/select.js">
@@ -1148,9 +1146,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/checkout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="108" selection-start="1477" selection-end="1505" vertical-scroll-proportion="0.5243553" vertical-offset="582" max-vertical-offset="9316">
-          <folding />
-        </state>
+        <state line="45" column="108" selection-start="1477" selection-end="1505" vertical-scroll-proportion="0.5243553" vertical-offset="582" max-vertical-offset="9316" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalogsearch/form.mini.phtml">
@@ -1215,261 +1211,181 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/customer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="32" selection-start="2384" selection-end="2384" vertical-scroll-proportion="0.5476773" vertical-offset="881" max-vertical-offset="5219">
-          <folding />
-        </state>
+        <state line="65" column="32" selection-start="2384" selection-end="2384" vertical-scroll-proportion="0.5476773" vertical-offset="881" max-vertical-offset="5219" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/temp.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="7" column="34" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/wishlist.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="13" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.33785823" vertical-offset="354" max-vertical-offset="2516">
-          <folding />
-        </state>
+        <state line="34" column="13" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.33785823" vertical-offset="354" max-vertical-offset="2516" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/template/links.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="46" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.37830687" vertical-offset="537" max-vertical-offset="918">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-            <element signature="e#962#1008#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="40" column="46" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.37830687" vertical-offset="537" max-vertical-offset="918" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Page/Block/Html/Header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="20" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.34615386" vertical-offset="353" max-vertical-offset="1428">
-          <folding />
-        </state>
+        <state line="57" column="20" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.34615386" vertical-offset="353" max-vertical-offset="1428" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/mobile_menu.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="127" selection-start="532" selection-end="532" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="629">
-          <folding />
-        </state>
+        <state line="13" column="127" selection-start="532" selection-end="532" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="629" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalogsearch/form.mini.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="346" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.40942928" vertical-offset="5" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="33" column="346" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.40942928" vertical-offset="5" max-vertical-offset="476" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/page/html/topmenu.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="17" selection-start="1148" selection-end="1148" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="408">
-          <folding>
-            <element signature="e#963#1032#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="36" column="17" selection-start="1148" selection-end="1148" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/2columns-left.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/2columns-right.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="32" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.6015385" vertical-offset="0" max-vertical-offset="935">
-          <folding />
-        </state>
+        <state line="48" column="32" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.6015385" vertical-offset="0" max-vertical-offset="935" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/2columns-left.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="32" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.6015385" vertical-offset="0" max-vertical-offset="1003">
-          <folding />
-        </state>
+        <state line="48" column="32" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.6015385" vertical-offset="0" max-vertical-offset="1003" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/3columns.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="32" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.54923075" vertical-offset="34" max-vertical-offset="1054">
-          <folding />
-        </state>
+        <state line="48" column="32" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.54923075" vertical-offset="34" max-vertical-offset="1054" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/checkout/cart/minicart.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="28" selection-start="1425" selection-end="1481" vertical-scroll-proportion="0.5604396" vertical-offset="0" max-vertical-offset="637">
-          <folding />
-        </state>
+        <state line="44" column="28" selection-start="1425" selection-end="1481" vertical-scroll-proportion="0.5604396" vertical-offset="0" max-vertical-offset="637" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.mobile.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1428" selection-end="1428" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="45" column="0" selection-start="1428" selection-end="1428" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1465" selection-end="1465" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="680">
-          <folding />
-        </state>
+        <state line="45" column="0" selection-start="1465" selection-end="1465" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="680" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/default.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="101" selection-end="101" vertical-scroll-proportion="0.115384616" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
+        <state line="3" column="3" selection-start="101" selection-end="101" vertical-scroll-proportion="0.115384616" vertical-offset="0" max-vertical-offset="442" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/review/customer/view.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="49" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.20588236" vertical-offset="27" max-vertical-offset="986">
-          <folding />
-        </state>
+        <state line="32" column="49" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.20588236" vertical-offset="27" max-vertical-offset="986" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/media.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/pushy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="880" selection-end="883" vertical-scroll-proportion="0.3761062" vertical-offset="0" max-vertical-offset="1904">
-          <folding />
-        </state>
+        <state line="18" column="23" selection-start="880" selection-end="883" vertical-scroll-proportion="0.3761062" vertical-offset="0" max-vertical-offset="1904" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Mage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="546" column="57" selection-start="14353" selection-end="14353" vertical-scroll-proportion="0.31288344" vertical-offset="8687" max-vertical-offset="16541">
-          <folding />
-        </state>
+        <state line="546" column="57" selection-start="14353" selection-end="14353" vertical-scroll-proportion="0.31288344" vertical-offset="8687" max-vertical-offset="16541" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.elevatezoom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30328">
-          <folding>
-            <marker date="1454408010054" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1454408010054" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1454408010054" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1454408010054" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1454408010054" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1454408010054" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30328" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/easy-slider.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.8053097" vertical-offset="563" max-vertical-offset="2788">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.8053097" vertical-offset="563" max-vertical-offset="2788" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/owl.carousel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25653">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25653" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/TEMP_media.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="35" selection-start="3477" selection-end="3477" vertical-scroll-proportion="0.12206573" vertical-offset="891" max-vertical-offset="2159">
-          <folding />
-        </state>
+        <state line="80" column="35" selection-start="3477" selection-end="3477" vertical-scroll-proportion="0.12206573" vertical-offset="891" max-vertical-offset="2159" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/1column.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="20" selection-start="1721" selection-end="1725" vertical-scroll-proportion="-0.10047847" vertical-offset="777" max-vertical-offset="1411">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="44" column="20" selection-start="1721" selection-end="1725" vertical-scroll-proportion="-0.10047847" vertical-offset="777" max-vertical-offset="1411" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="0" selection-start="2066" selection-end="2929" vertical-scroll-proportion="0.09546166" vertical-offset="517" max-vertical-offset="1785">
-          <folding />
-        </state>
+        <state line="57" column="0" selection-start="2066" selection-end="2929" vertical-scroll-proportion="0.09546166" vertical-offset="517" max-vertical-offset="1785" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="1154" selection-end="1154" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="37" column="32" selection-start="1154" selection-end="1154" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/navigation/top.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="27" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="418">
+        <state line="43" column="27" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/topmenu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="32" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="41" selection-start="8921" selection-end="8924" vertical-scroll-proportion="0.33251232" vertical-offset="3724" max-vertical-offset="5202" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/checkout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="36" selection-start="2705" selection-end="2709" vertical-scroll-proportion="0.33251232" vertical-offset="817" max-vertical-offset="9282" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="2157" selection-end="2157" vertical-scroll-proportion="0.67160493" vertical-offset="357" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="51" selection-start="8102" selection-end="8102" vertical-scroll-proportion="0.0" vertical-offset="1820" max-vertical-offset="4658">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10745" column="0" selection-start="232841" selection-end="232841" vertical-scroll-proportion="-12.6" vertical-offset="182350" max-vertical-offset="188666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/topmenu.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="418">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="41" selection-start="8921" selection-end="8924" vertical-scroll-proportion="0.33251232" vertical-offset="3724" max-vertical-offset="5202">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/checkout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="36" selection-start="2705" selection-end="2709" vertical-scroll-proportion="0.33251232" vertical-offset="817" max-vertical-offset="9282">
+        <state line="10758" column="5" selection-start="233216" selection-end="233216" vertical-scroll-proportion="0.0" vertical-offset="182350" max-vertical-offset="188666">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="52" selection-start="3631" selection-end="3631" vertical-scroll-proportion="-5.627451" vertical-offset="1073" max-vertical-offset="1581">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2157" selection-end="2157" vertical-scroll-proportion="0.67160493" vertical-offset="357" max-vertical-offset="1105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="51" selection-start="8102" selection-end="8102" vertical-scroll-proportion="0.83497536" vertical-offset="1820" max-vertical-offset="4658">
+        <state line="101" column="0" selection-start="3466" selection-end="3649" vertical-scroll-proportion="0.6021841" vertical-offset="940" max-vertical-offset="1581">
           <folding />
         </state>
       </provider>
