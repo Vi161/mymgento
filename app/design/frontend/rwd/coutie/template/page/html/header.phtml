@@ -86,11 +86,6 @@
 
         </div>
 
-        <!-- Navigation -->
-
-        <div id="header-nav" class="skip-content">
-            <?php echo $this->getChildHtml('topMenu') ?>
-        </div>
 
         <!-- Search -->
 
@@ -103,6 +98,12 @@
 
     </div>
 </header>
+<!-- Navigation -->
+<div class="header-category-menu">
+    <div id="header-nav" class="header-category-menu-container skip-content">
+        <?php echo $this->getChildHtml('topMenu') ?>
+    </div>
+</div>
 
 
 <?php echo $this->getChildHtml('topContainer'); ?>

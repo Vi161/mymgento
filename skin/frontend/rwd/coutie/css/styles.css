@@ -10644,6 +10644,7 @@ div.calendar table td.button {
     text-align: right;
 }
 */
+
 .top_links_ul .top_links_span_logo{
     position: absolute;
     display: inline-block;
@@ -10734,7 +10735,32 @@ div.calendar table td.button {
 .slidemenu-check{
     display:none;
 }
+.welcome-msg{
+    display:none;
+}
 @media only screen and (min-width: 771px) {
+    .header-category-menu{
+        background:black;
+    }
+    .header-category-menu-container{
+        max-width:1000px;
+        margin: 0 auto;
+    }
+    .header-category-menu-container a{
+        color:white;
+    }
+    .header-category-menu-container .nav-primary .menu-active ul.level0{
+        width:1000px;
+        background:white;
+    }
+    .header-category-menu-container .nav-primary .level0:hover{
+        color:white;
+        text-decoration: underline;
+    }
+    .header-category-menu-container .nav-primary .level1{
+        color:black;
+        border-bottom:none;
+    }
     .menu-btn{
         display:none;
     }

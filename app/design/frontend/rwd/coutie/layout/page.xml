@@ -44,11 +44,6 @@
 
             <block type="page/html_head" name="head" as="head">
                 <action method="addCss"><stylesheet>css/bootstrap.css</stylesheet></action>
-                <action method="addJs"><script>js/jquery-1.11.0.min.js</script></action>
-                <action method="addJs"><script>js/bootstrap.min.js</script></action>
-                <action method="addJs"><script>js/select.js</script></action>
-
-
 
                 <action method="addJs"><script>prototype/prototype.js</script></action>
                 <action method="addJs"><script>lib/jquery/jquery-1.10.2.min.js</script></action>
@@ -86,7 +81,9 @@
 
                 <action method="addItem"><type>skin_js</type><name>js/pushy.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/owl.carousel.js</name></action>
-
+                <action method="addItem"><type>skin_js</type><name>js/jquery-1.11.0.min.js</name></action>
+                <action method="addItem"><type>skin_js</type><name>js/bootstrap.min.js</name></action>
+                <action method="addItem"><type>skin_js</type><name>js/select.js</name></action>
 
                 <!-- Add stylesheets with no media queries for use in IE 8 and below -->
                 <action method="addItem"><type>skin_css</type><name>css/styles-ie8.css</name><params/><if><![CDATA[ (lte IE 8) & (!IEMobile)]]></if></action>
