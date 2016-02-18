@@ -79,11 +79,14 @@
                 <action method="addLinkRel"><rel>stylesheet</rel><href>//fonts.googleapis.com/css?family=Raleway:300,400,500,700,600</href></action>
                 <action method="addItem"><type>skin_js</type><name>js/minicart.js</name></action>
 
+
                 <action method="addItem"><type>skin_js</type><name>js/pushy.js</name></action>
-                <action method="addItem"><type>skin_js</type><name>js/owl.carousel.js</name></action>
-                <action method="addItem"><type>skin_js</type><name>js/jquery-1.11.0.min.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/bootstrap.min.js</name></action>
-                <action method="addItem"><type>skin_js</type><name>js/select.js</name></action>
+                <action method="addItem"><type>skin_js</type><name>js/jquery.ddslick.js</name></action>
+                <action method="addItem"><type>skin_js</type><name>js/lightslider.js</name></action>
+                <action method="addItem"><type>skin_js</type><name>js/jquery-ui.js</name></action>
+
+
 
                 <!-- Add stylesheets with no media queries for use in IE 8 and below -->
                 <action method="addItem"><type>skin_css</type><name>css/styles-ie8.css</name><params/><if><![CDATA[ (lte IE 8) & (!IEMobile)]]></if></action>
@@ -109,9 +112,10 @@
                 <block type="cms/block" name="header_top_links">
                     <action method="setBlockId"><block_id>header_top_links</block_id></action>
                 </block>
+                <block type="cms/block" name="header_bot_grey">
+                    <action method="setBlockId"><block_id>header_bot_grey</block_id></action>
+                </block>
                 <block type="page/template_links" name="top.links" as="topLinks"/>
-
-
 
                 <block type="page/switch" name="store_language" as="store_language" template="page/switch/languages.phtml"/>
                 <block type="core/text_list" name="top.menu" as="topMenu" translate="label">
@@ -125,9 +129,6 @@
                     <action method="setElementClass"><value>top-container</value></action>
                 </block>
                 <block type="page/html_welcome" name="welcome" as="welcome"/>
-                <block type="cms/block" name="header_bot_links">
-                    <action method="setBlockId"><block_id>header_bot_links</block_id></action>
-                </block>
             </block>
 
             <block type="page/html_breadcrumbs" name="breadcrumbs" as="breadcrumbs"/>

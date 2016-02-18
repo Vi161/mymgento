@@ -36,88 +36,60 @@
     $_product = $this->getProduct();
     $_helper = $this->helper('catalog/output');
 ?>
-<div class="product-image product-image-zoom">
-    <div class="product-image-gallery">
-        <img id="image-main"
-             class="gallery-image visible"
-             src="<?php echo $this->helper('catalog/image')->init($_product, 'image') ?>"
-             alt="<?php echo $this->escapeHtml($this->getImageLabel()) ?>"
-             title="<?php echo $this->escapeHtml($this->getImageLabel()); ?>" />
-
-        <?php $i=0; foreach ($this->getGalleryImages() as $_image): ?>
-            <?php if ($this->isGalleryImageVisible($_image)): ?>
-            <img id="image-<?php echo $i; ?>"
-                 class="gallery-image"
-                 src="<?php echo $this->getGalleryImageUrl($_image); ?>"
-                 data-zoom-image="<?php echo  $this->getGalleryImageUrl($_image); ?>" />
-            <?php endif; ?>
-        <?php $i++; endforeach; ?>
-    </div>
-</div>
+<!--<div class="product-image product-image-zoom">-->
+<!--    <div class="product-image-gallery">-->
+<!--        <img id="image-main"-->
+<!--             class="gallery-image visible"-->
+<!--             src="--><?php //echo $this->helper('catalog/image')->init($_product, 'image') ?><!--"-->
+<!--             alt="--><?php //echo $this->escapeHtml($this->getImageLabel()) ?><!--"-->
+<!--             title="--><?php //echo $this->escapeHtml($this->getImageLabel()); ?><!--" />-->
+<!---->
+<!--        --><?php //$i=0; foreach ($this->getGalleryImages() as $_image): ?>
+<!--            --><?php //if ($this->isGalleryImageVisible($_image)): ?>
+<!--            <img id="image---><?php //echo $i; ?><!--"-->
+<!--                 class="gallery-image"-->
+<!--                 src="--><?php //echo $this->getGalleryImageUrl($_image); ?><!--"-->
+<!--                 data-zoom-image="--><?php //echo  $this->getGalleryImageUrl($_image); ?><!--" />-->
+<!--            --><?php //endif; ?>
+<!--        --><?php //$i++; endforeach; ?>
+<!--    </div>-->
+<!--</div>-->
 
 <?php if (count($this->getGalleryImages()) > 0): ?>
 <div class="more-views">
     <h2><?php echo $this->__('More Views') ?></h2>
-    <ul class="product-image-thumbs">
+    <ul class="product-image-thumbs" id="imageGallery">
     <?php $i=0; foreach ($this->getGalleryImages() as $_image): ?>
         <?php if ($this->isGalleryImageVisible($_image)): ?>
-        <li>
-            <a class="thumb-link" href="#" title="<?php echo $this->escapeHtml($_image->getLabel()) ?>" data-image-index="<?php echo $i; ?>">
-                <img src="<?php echo $this->helper('catalog/image')->init($this->getProduct(), 'thumbnail', $_image->getFile())->resize(75); ?>"
-                     width="75" height="75" alt="<?php echo $this->escapeHtml($_image->getLabel()) ?>" />
+        <li data-thumb="<?php echo $this->helper('catalog/image')->init($this->getProduct(), 'thumbnail', $_image->getFile())->resize(82, 117); ?>"
+            data-src="<?php echo $this->helper('catalog/image')->init($this->getProduct(), 'image', $_image->getFile()); ?>">
+            <a class="thumb-link" href="#" title="<?php echo $this->escapeHtml($_image->getLabel()) ?>">
+                <img src="<?php echo $this->helper('catalog/image')->init($this->getProduct(), 'image', $_image->getFile()); ?>"
+                      alt="<?php echo $this->escapeHtml($_image->getLabel()) ?>" />
             </a>
         </li>
         <?php endif; ?>
     <?php $i++; endforeach; ?>
     </ul>
 </div>
-<?php endif; ?>
-
-<?php echo $this->getChildHtml('after'); ?>
-
-<!--------------------------->
-<?php if (count($this->getGalleryImages()) > 0): ?>
-    <div class="more-views">
-        <h2><?php echo $this->__('More Views') ?></h2>
-        <ul id="prod-thumb" class="product-image-thumbs owl-carousel owl-theme">
-            <?php $i=0; foreach ($this->getGalleryImages() as $_image): ?>
-                <?php
-                if (($filterClass = $this->getGalleryFilterHelper()) && ($filterMethod = $this->getGalleryFilterMethod()) && !Mage::helper($filterClass)->$filterMethod($_product, $_image)):
-                    continue;
-                endif;
-                ?>
-                <li class="item">
-                    <a class="thumb-link" href="#" title="<?php echo $this->escapeHtml($_image->getLabel()) ?>" data-image-index="<?php echo $i; ?>">
-                        <img src="<?php echo $this->helper('catalog/image')->init($this->getProduct(), 'thumbnail', $_image->getFile())->resize(75); ?>"
-                             width="75" height="75" alt="<?php echo $this->escapeHtml($_image->getLabel()) ?>" />
-                    </a>
-                </li>
-                <?php $i++; endforeach; ?>
-        </ul>
-    </div>
-<?php endif; ?>
-
-<?php echo $this->getChildHtml('after'); ?>
-
-<script>
-    jQuery(document).ready(function() {
-
-        jQuery("#prod-thumb").owlCarousel({
-            items : 6,
-            itemsCustom : [
-                [320, 3],
-                [480, 4],
-                [600, 5],
-                [760, 4],
-                [800, 4],
-                [1024, 6],
-                [1400, 6],
-                [1600, 6]
-            ],
-            lazyLoad : true,
-            navigation : true,
-            pagination: false
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('#imageGallery').lightSlider({
+                gallery:true,
+                item:1,
+                loop:true,
+                thumbItem:9,
+                slideMargin:0,
+                enableDrag: false,
+                currentPagerPosition:'left',
+                onSliderLoad: function(el) {
+                    el.lightGallery({
+                        selector: '#imageGallery .lslide'
+                    });
+                }
+            });
         });
+    </script>
+<?php endif; ?>
 
-    });
-</script>
+<?php echo $this->getChildHtml('after'); ?>

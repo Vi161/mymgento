@@ -35,7 +35,7 @@
                 <?php echo $this->getChildHtml('store_language') ?>
             </div>
 
-            <?php //echo $this->getChildHtml('currency_switcher') ?>
+            <?php echo $this->getChildHtml('currency_switcher') ?>
 
             <p class="welcome-msg"><?php echo $this->getChildHtml('welcome') ?> <?php echo $this->getChildHtml('accountLinks') ?></p>
         </div>
@@ -97,6 +97,7 @@
 
 
     </div>
+
 </header>
 <!-- Navigation -->
 <div class="header-category-menu">
@@ -104,6 +105,14 @@
         <?php echo $this->getChildHtml('topMenu') ?>
     </div>
 </div>
+<div class="header-bot-grey">
+    <div class="header-bot-grey-container">
+        <div class="header-bot-txt">
+            <?php echo $this->getChildHtml('header_bot_grey') ?>
+        </div>
+    </div>
+</div>
+
 
 
 <?php echo $this->getChildHtml('topContainer'); ?>

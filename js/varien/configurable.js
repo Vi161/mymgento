@@ -225,9 +225,9 @@ Product.Config.prototype = {
         var str = option.label;
         if(price){
             if (this.taxConfig.showBothPrices) {
-                str+= ' ' + this.formatPrice(excl, true) + ' (' + this.formatPrice(price, true) + ' ' + this.taxConfig.inclTaxTitle + ')';
+//                str+= ' ' + this.formatPrice(excl, true) + ' (' + this.formatPrice(price, true) + ' ' + this.taxConfig.inclTaxTitle + ')';
             } else {
-                str+= ' ' + this.formatPrice(price, true);
+//                str+= ' ' + this.formatPrice(price, true);
             }
         }
         return str;
@@ -238,11 +238,11 @@ Product.Config.prototype = {
         price = parseFloat(price);
         if(showSign){
             if(price<0){
-                str+= '-';
+//                str+= '-';
                 price = -price;
             }
             else{
-                str+= '+';
+//                str+= '+';
             }
         }
 
