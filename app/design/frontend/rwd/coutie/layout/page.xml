@@ -85,6 +85,7 @@
                 <action method="addItem"><type>skin_js</type><name>js/jquery.ddslick.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/lightslider.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/jquery-ui.js</name></action>
+                <action method="addCss"><stylesheet>css/jquery-ui.css</stylesheet></action>
 
 
 
@@ -204,6 +205,7 @@
                 <action method="addCss"><stylesheet>css/widgets.css</stylesheet></action>
                 <action method="addCss"><stylesheet>css/print.css</stylesheet><params>media="print"</params></action>
                 <action method="addItem"><type>js</type><name>lib/ds-sleight.js</name><params/><if>lt IE 7</if></action>
+                <action method="addItem"><type>skin_css</type><name>css/jquery-ui.css</name><params/></action>
 
 
                 <!--<action method="addItem"><type>skin_js</type><name>js/iehover-fix.js</name><params/><if>lt IE 7</if></action>-->

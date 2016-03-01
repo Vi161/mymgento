@@ -2,417 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd1fc7d-a6e7-4a2e-a565-e92cba54209b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable.phtml" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\skin\frontend\rwd\coutie\js\owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\skin\frontend\rwd\coutie\js\select.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_cfg_opt_agr_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_entity_datetime_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_cfg_opt_agr_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_cfg_opt_agr_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_tier_price_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_cache_option_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_directory_country_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_set_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--0\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_form_fieldset_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--1\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_report_event_types_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--1\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_order_status_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---737_DB_PDO_MYSQL_DDL_eav_attribute_label_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_group_price_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cataloginventory_stock_status_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalogsearch_query_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_group_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_label_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_newsletter_template_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--2\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_permission_variable_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_option_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_entity_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_form_type_entity_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_tax_calculation_rate_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_tax_calculation_rule_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_Zend_LocaleC_en_US_nametocurrency_EUR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--3\mage---internal-metadatas---737_Zend_LocaleL_en_US_windowstotimezone_" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---737_DB_PDO_MYSQL_DDL_newsletter_subscriber_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_eav_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_opt_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_opt_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_newsletter_subscriber_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_flat_quote_item_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--5\mage---internal-metadatas---737_CORE_CACHE_INVALIDATE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--5\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cataloginventory_stock_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--5\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalogsearch_fulltext_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--5\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_customer_eav_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---737_DB_PDO_MYSQL_DDL_customer_entity_varchar_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_adminnotification_inbox_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_entity_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_media_gallery_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_website_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_customer_entity_varchar_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_customer_form_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_directory_currency_rate_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_form_fieldset_label_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---737_DB_PDO_MYSQL_DDL_catalog_product_relation_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---737_DB_PDO_MYSQL_DDL_catalog_product_super_attribute_label_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_product_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_eav_decimal_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_final_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_relation_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_super_attribute_label_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_dataflow_profile_history_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_directory_country_region_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_poll_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_flat_quote_address_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_flat_quote_payment_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--7\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_order_status_state_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--8\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_eav_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--8\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_link_type_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--8\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_rating_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--8\mage---internal-metadatas---737_Zend_LocaleC_en_US_date_" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--8\mage---internal-metadatas---737_Zend_LocaleC_en_US_time_" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---737_DB_PDO_MYSQL_DDL_catalog_product_super_link_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---737_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_2" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_int_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_bundle_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_super_link_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cms_page_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_option_value_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--9\mage---internal-metadatas---737_Zend_LocaleC_en_US_month_gregorian_format_abbreviated_2" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_cfg_opt_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---737_DB_PDO_MYSQL_DDL_catalog_product_super_attribute_pricing_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_admin_role_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_admin_rule_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_admin_user_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_entity_int_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_text_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_cfg_opt_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_cfg_opt_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_downlod_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_opt_agr_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_opt_agr_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_super_attribute_pricing_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cataloginventory_stock_item_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cms_block_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_flag_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_store_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_log_quote_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_poll_store_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_tax_class_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--b\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_entity_text_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--b\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_index_event_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--b\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_log_visitor_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--b\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_poll_answer_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_api2_acl_role_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_website_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_flat_quote_item_option_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AQ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AX" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_AZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BB" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BJ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BV" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_BZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CV" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CX" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_CZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_DE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_DJ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_DK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_DM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_DO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_DZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_EC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_EE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_EG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_EH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ER" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ES" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ET" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_FI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_FJ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_FK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_FM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_FO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_FR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GB" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GP" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GQ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_GY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_HK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_HM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_HN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_HR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_HT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_HU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ID" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IQ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_IT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_JE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_JM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_JO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_JP" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KP" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_KZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LB" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LV" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_LY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ME" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ML" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MP" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MQ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MV" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MX" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_MZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NP" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_NZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_OM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_PY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_QA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_RE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_RO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_RS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_RU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_RW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SB" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SJ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ST" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SV" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_SZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TD" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TH" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TJ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TK" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TL" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TO" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TR" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TV" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_TZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_UA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_UG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_UM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_UY" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_UZ" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VC" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VG" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VI" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VN" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_VU" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_WF" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_WS" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_YE" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_YT" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ZA" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ZM" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_country_ZW" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--c\mage---internal-metadatas---737_Zend_LocaleC_en_US_date_short" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_enabled_index_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_eav_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_website_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cataloginventory_stock_status_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cms_page_store_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_resource_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_design_change_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_directory_country_region_name_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_form_type_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_index_process_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_rating_entity_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_rating_option_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_review_entity_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_review_status_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--d\mage---internal-metadatas---737_Zend_LocaleC_en_US_time_medium" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---737_DB_PDO_MYSQL_DDL_customer_entity_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_product_index_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_decimal_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_varchar_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_bundle_opt_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_bundle_sel_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_link_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_cms_block_store_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_customer_eav_attribute_website_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_customer_entity_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_customer_group_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_entity_type_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--e\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_tax_calculation_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---737_DB_PDO_MYSQL_DDL_catalog_product_super_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---737_Zend_LocaleC_en_US_day_gregorian_format_wide_fri" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---737_Zend_LocaleC_en_US_day_gregorian_format_wide_sat" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_entity_decimal_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_category_entity_varchar_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_datetime_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_media_gallery_value_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_idx_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_index_price_tmp_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_super_attribute_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_config_data_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_store_group_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_core_url_rewrite_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_dataflow_profile_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_form_element_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_log_summary_type_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_log_visitor_info_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_permission_block_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_sales_flat_quote_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_Zend_LocaleC_en_US_day_gregorian_format_wide_fri" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_Zend_LocaleC_en_US_day_gregorian_format_wide_mon" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_Zend_LocaleC_en_US_day_gregorian_format_wide_sat" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_Zend_LocaleC_en_US_day_gregorian_format_wide_sun" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_Zend_LocaleC_en_US_day_gregorian_format_wide_tue" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--f\mage---internal-metadatas---737_Zend_LocaleC_en_US_month_gregorian_format_wide_1" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\session\sess_98cdfl3sf8nu4q57uhd1s2j3p0" afterPath="" />
-      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\session\sess_dc093639s62uraj81vmmnndal4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/rwd/coutie/images/sprite.png" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/addto.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/tag/list.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/list/related.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view\type\options\configurable-temp.phtml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/varien/configurable.js" afterPath="$PROJECT_DIR$/js/varien/configurable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-1.11.0.min.js" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-1.11.0.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---737_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---737_ADMIN_NOTIFICATIONS_LASTCHECK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_ADMIN_NOTIFICATIONS_LASTCHECK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---737_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---737_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
@@ -696,9 +292,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_Zend_LocaleL_en_US_months_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_Zend_LocaleL_en_US_months_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---737_Zend_LocaleL_en_US_territory_2" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---737_Zend_LocaleL_en_US_territory_2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magento.iws" />
@@ -722,32 +319,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
+      <file leaf-file-name="checkout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/checkout.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="47" selection-start="3618" selection-end="3625" vertical-scroll-proportion="-52.96154" vertical-offset="0" max-vertical-offset="1734">
+            <state line="57" column="55" selection-start="2767" selection-end="2767" vertical-scroll-proportion="0.0" vertical-offset="979" max-vertical-offset="9282">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configurable.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable.phtml">
+      <file leaf-file-name="view.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="61" selection-start="2372" selection-end="2372" vertical-scroll-proportion="-5.9215684" vertical-offset="633" max-vertical-offset="1258">
+            <state line="74" column="76" selection-start="3153" selection-end="3153" vertical-scroll-proportion="-17.0" vertical-offset="816" max-vertical-offset="3638">
               <folding>
                 <element signature="e#6#952#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="79" selection-start="5302" selection-end="5302" vertical-scroll-proportion="-23.32" vertical-offset="760" max-vertical-offset="4556">
-              <folding>
-                <element signature="tag#block#0;tag#block#0;tag#default#0;tag#layout#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -756,7 +342,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11682" column="1" selection-start="253714" selection-end="253714" vertical-scroll-proportion="0.9476117" vertical-offset="197979" max-vertical-offset="198747">
+            <state line="11529" column="15" selection-start="250148" selection-end="250148" vertical-scroll-proportion="0.8294931" vertical-offset="195453" max-vertical-offset="200719">
               <folding />
             </state>
           </provider>
@@ -775,19 +361,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/2columns-left.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/2columns-right.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/checkout/cart/minicart.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.mobile.phtml" />
-        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/default.js" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/TEMP_media.phtml" />
-        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/easy-slider.js" />
-        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.elevatezoom.js" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/breadcrumbs.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/navigation/top.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/topmenu.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.ddslick.js" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/owl.carousel.js" />
@@ -799,14 +372,12 @@
         <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/View/Options/Type/Select.php" />
         <option value="$PROJECT_DIR$/js/varien/configurable.js" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/list.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/list.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/compare/list.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/widget/new/content/new_list.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view.phtml" />
         <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/View/Type/Configurable.php" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/bundle/catalog/product/view/options/notice.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/options/type/select.phtml" />
         <option value="$PROJECT_DIR$/app/design/adminhtml/default/default/template/bundle/product/composite/fieldset/options/bundle.phtml" />
@@ -820,11 +391,26 @@
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/checkout/cart/item/configure/updatecart.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/options/wrapper/bottom.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/wishlist/shared.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" />
         <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-ui.js" />
         <option value="$PROJECT_DIR$/app/code/local/Mage/Catalog/Block/Product/View/Type/Configurable.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/1column.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/type/default.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/addto.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/addto.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/list/related.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/review/product/view/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/bundle/catalog/product/list/partof.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/review/product/view/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list/upsell.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/tag/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/tag/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" />
       </list>
     </option>
@@ -862,6 +448,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -989,28 +576,388 @@
               <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coutie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coutie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coutie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coutie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coutie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/HTML/test" />
+    <property name="last_opened_file_path" value="C:/HTML/rustea" />
     <property name="SearchEverywhereHistory" value="&lt;" />
     <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view\type\options" />
-      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view\options" />
-      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\base\default\template\catalog\product\view\options" />
-      <recent name="C:\OpenServer\domains\localhost\magento\app\code\local\Mage\Catalog\Block\Product\View\Type" />
-      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product" />
+      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\tag" />
+      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view" />
+      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\newsletter" />
+      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\list" />
+      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\layout" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view\type\options" />
@@ -1080,16 +1027,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="850" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="850" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38041958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23360108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23627844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33660588" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -1097,10 +1043,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2454418" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1108,7 +1055,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33239833" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38041958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1117,10 +1064,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2309237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23360108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1149,100 +1096,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="1465" selection-end="1465" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="680" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/default.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="101" selection-end="101" vertical-scroll-proportion="0.115384616" vertical-offset="0" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/review/customer/view.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="49" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.20588236" vertical-offset="27" max-vertical-offset="986" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/pushy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="880" selection-end="883" vertical-scroll-proportion="0.3761062" vertical-offset="0" max-vertical-offset="1904" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Mage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="546" column="57" selection-start="14353" selection-end="14353" vertical-scroll-proportion="0.31288344" vertical-offset="8687" max-vertical-offset="16541">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/easy-slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.8053097" vertical-offset="563" max-vertical-offset="2788" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/TEMP_media.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="35" selection-start="3477" selection-end="3477" vertical-scroll-proportion="0.12206573" vertical-offset="891" max-vertical-offset="2159" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/1column.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="20" selection-start="1721" selection-end="1725" vertical-scroll-proportion="-0.10047847" vertical-offset="777" max-vertical-offset="1411" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/navigation/top.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="27" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.4473684" vertical-offset="0" max-vertical-offset="418" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/topmenu.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="418" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="41" selection-start="8921" selection-end="8924" vertical-scroll-proportion="0.33251232" vertical-offset="3724" max-vertical-offset="5202">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu/renderer.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2157" selection-end="2157" vertical-scroll-proportion="0.67160493" vertical-offset="357" max-vertical-offset="1105" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/checkout.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="66" selection-start="5398" selection-end="5399" vertical-scroll-proportion="0.3210059" vertical-offset="1364" max-vertical-offset="9282">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/topmenu.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="32" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.25718608" vertical-offset="0" max-vertical-offset="661" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/media.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="3666" selection-end="3666" vertical-scroll-proportion="-20.192308" vertical-offset="410" max-vertical-offset="1037" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.ddslick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="36" selection-start="861" selection-end="861" vertical-scroll-proportion="0.33281973" vertical-offset="243" max-vertical-offset="5729" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="126" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.3343419" vertical-offset="0" max-vertical-offset="661" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="11" selection-start="3822" selection-end="3822" vertical-scroll-proportion="-10.470589" vertical-offset="996" max-vertical-offset="1717" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/lightslider.js">
@@ -1250,26 +1106,9 @@
         <state line="204" column="48" selection-start="7846" selection-end="7846" vertical-scroll-proportion="0.04468413" vertical-offset="3439" max-vertical-offset="19516" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="11" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.27744806" vertical-offset="901" max-vertical-offset="7208">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/View/Options/Type/Select.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="39" selection-start="5932" selection-end="5932" vertical-scroll-proportion="0.43419063" vertical-offset="1549" max-vertical-offset="2312" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/varien/configurable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="245" column="13" selection-start="8983" selection-end="8983" vertical-scroll-proportion="0.8202417" vertical-offset="3622" max-vertical-offset="5542" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/list.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="25" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.041062802" vertical-offset="663" max-vertical-offset="2278" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view.phtml">
@@ -1348,9 +1187,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/type/options/configurable.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="11" selection-start="2077" selection-end="2431" vertical-scroll-proportion="0.3115942" vertical-offset="381" max-vertical-offset="850">
-          <folding />
-        </state>
+        <state line="53" column="11" selection-start="2077" selection-end="2431" vertical-scroll-proportion="0.3115942" vertical-offset="381" max-vertical-offset="850" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/checkout/cart/item/configure/updatecart.phtml">
@@ -1368,69 +1205,151 @@
         <state line="34" column="0" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.045212764" vertical-offset="561" max-vertical-offset="1547" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="15" selection-start="1207" selection-end="1214" vertical-scroll-proportion="0.28042328" vertical-offset="115" max-vertical-offset="3009">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="47" selection-start="11928" selection-end="11942" vertical-scroll-proportion="-10.12401" vertical-offset="7305" max-vertical-offset="7769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-1.11.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31971" selection-start="96409" selection-end="96409" vertical-scroll-proportion="0.07544379" vertical-offset="0" max-vertical-offset="676">
-          <folding />
-        </state>
+        <state line="3" column="31971" selection-start="96409" selection-end="96409" vertical-scroll-proportion="0.07544379" vertical-offset="0" max-vertical-offset="676" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-ui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="0.10059172" vertical-offset="0" max-vertical-offset="282557">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="79" selection-start="5302" selection-end="5302" vertical-scroll-proportion="-23.32" vertical-offset="760" max-vertical-offset="4556">
-          <folding>
-            <element signature="tag#block#0;tag#block#0;tag#default#0;tag#layout#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="47" selection-start="3618" selection-end="3625" vertical-scroll-proportion="-52.96154" vertical-offset="0" max-vertical-offset="1734">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable-temp.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="17" selection-start="2550" selection-end="2638" vertical-scroll-proportion="-17.807692" vertical-offset="234" max-vertical-offset="884">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="0.10059172" vertical-offset="0" max-vertical-offset="282557" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Mage/Catalog/Block/Product/View/Type/Configurable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="255" column="64" selection-start="9173" selection-end="9173" vertical-scroll-proportion="0.35549873" vertical-offset="3805" max-vertical-offset="5882">
-          <folding />
-        </state>
+        <state line="255" column="64" selection-start="9173" selection-end="9173" vertical-scroll-proportion="0.35549873" vertical-offset="3805" max-vertical-offset="5882" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="65" selection-start="10659" selection-end="10660" vertical-scroll-proportion="1.9523809" vertical-offset="2509" max-vertical-offset="7208" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="61" selection-start="2372" selection-end="2372" vertical-scroll-proportion="-5.9215684" vertical-offset="633" max-vertical-offset="1258">
+        <state line="63" column="87" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.71141976" vertical-offset="219" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="59" selection-start="5282" selection-end="5282" vertical-scroll-proportion="0.37048665" vertical-offset="1107" max-vertical-offset="4590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/1column.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="20" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.51437217" vertical-offset="306" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/varien/configurable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="184" column="4" selection-start="6744" selection-end="6744" vertical-scroll-proportion="0.049490537" vertical-offset="2703" max-vertical-offset="5151" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="246" column="54" selection-start="15452" selection-end="15454" vertical-scroll-proportion="0.33281973" vertical-offset="3966" max-vertical-offset="7701" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="72" selection-start="12002" selection-end="12016" vertical-scroll-proportion="0.33281973" vertical-offset="3269" max-vertical-offset="7820" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/type/default.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.6512821" vertical-offset="222" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list/related.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="34" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.20118344" vertical-offset="0" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="50" selection-start="2335" selection-end="2381" vertical-scroll-proportion="0.35" vertical-offset="430" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="6" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.8382643" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="52" selection-start="2992" selection-end="2992" vertical-scroll-proportion="0.34911242" vertical-offset="707" max-vertical-offset="1564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="2" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.37278107" vertical-offset="83" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="16" selection-start="3806" selection-end="3806" vertical-scroll-proportion="-2.1538463" vertical-offset="641" max-vertical-offset="1700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/addto.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1079" selection-end="1079" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/addto.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="11" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.234714" vertical-offset="0" max-vertical-offset="507" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/review/product/view/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="12" selection-start="1031" selection-end="1031" vertical-scroll-proportion="0.32149902" vertical-offset="313" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/bundle/catalog/product/list/partof.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="5" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.75739646" vertical-offset="75" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/review/product/view/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.034979425" vertical-offset="459" max-vertical-offset="1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/tag/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="12" selection-start="969" selection-end="969" vertical-scroll-proportion="0.30866808" vertical-offset="296" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/tag/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.10493827" vertical-offset="0" max-vertical-offset="486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list/upsell.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="12" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.035940804" vertical-offset="459" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/list/related.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.35714287" vertical-offset="384" max-vertical-offset="1513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="3" selection-start="3031" selection-end="3031" vertical-scroll-proportion="0.24330357" vertical-offset="809" max-vertical-offset="1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/checkout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="55" selection-start="2767" selection-end="2767" vertical-scroll-proportion="0.0" vertical-offset="979" max-vertical-offset="9282">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="76" selection-start="3153" selection-end="3153" vertical-scroll-proportion="-17.0" vertical-offset="816" max-vertical-offset="3638">
           <folding>
             <element signature="e#6#952#0" expanded="true" />
           </folding>
@@ -1439,7 +1358,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11682" column="1" selection-start="253714" selection-end="253714" vertical-scroll-proportion="0.9476117" vertical-offset="197979" max-vertical-offset="198747">
+        <state line="11529" column="15" selection-start="250148" selection-end="250148" vertical-scroll-proportion="0.8294931" vertical-offset="195453" max-vertical-offset="200719">
           <folding />
         </state>
       </provider>
