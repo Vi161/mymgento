@@ -24,26 +24,32 @@
  * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
 ?>
-<div class="block block-subscribe">
-    <div class="block-title">
-        <strong><span><?php echo $this->__('Newsletter') ?></span></strong>
-    </div>
-    <form action="<?php echo $this->getFormActionUrl() ?>" method="post" id="newsletter-validate-detail">
-        <div class="block-content">
-            <div class="form-subscribe-header">
-                <label for="newsletter"><?php echo $this->__('Sign Up for Our Newsletter:') ?></label>
-            </div>
-            <div class="input-box">
-               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Sign up for our newsletter')) ?>" class="input-text required-entry validate-email" />
-            </div>
-            <div class="actions">
-                <button type="submit" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Subscribe')) ?>" class="button"><span><span><?php echo $this->__('Subscribe') ?></span></span></button>
-            </div>
+<div class="block-subscribe-wrapper">
+    <div class="block block-subscribe">
+        <div class="subscribe-discount"><?php echo $this->__('10% Discount') ?></div>
+        <div class="newsletter-title">
+            <span><?php echo $this->__('Newsletter') ?></span>
         </div>
-    </form>
-    <script type="text/javascript">
-    //<![CDATA[
-        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-    //]]>
-    </script>
+        <form action="<?php echo $this->getFormActionUrl() ?>" method="post" id="newsletter-validate-detail">
+            <div class="block-content">
+                <div class="form-subscribe-header">
+                    <label for="newsletter"><?php echo $this->__('Sign Up for Our Newsletter:') ?></label>
+                </div>
+                <div class="input-box">
+                   <input value="Enter E-Mail address here" type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Sign up for our newsletter')) ?>" class="input-text required-entry validate-email" />
+                </div>
+                <div class="actions newsletter-but newsletter-but1">
+                    <button type="submit" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Women')) ?>" class="button"><span><span><?php echo $this->__('Women') ?></span></span></button>
+                </div>
+                <div class="actions newsletter-but newsletter-but2">
+                    <button type="submit" title="<?php echo Mage::helper('core')->quoteEscape($this->__('Men')) ?>" class="button"><span><span><?php echo $this->__('Men') ?></span></span></button>
+                </div>
+            </div>
+        </form>
+        <script type="text/javascript">
+        //<![CDATA[
+            var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+        //]]>
+        </script>
+    </div>
 </div>

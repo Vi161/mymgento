@@ -90,6 +90,8 @@ html {
  */
 body {
   margin: 0;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 12px;
 }
 
 /* ==========================================================================
@@ -1293,7 +1295,7 @@ a.button:hover {
 .main-container,
 .footer-container {
   position: relative;
-  max-width: 1000px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 15px;
 }
@@ -3972,6 +3974,8 @@ a.skip-link {
 .footer,
 .footer button {
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 12px;
 }
 
 .footer {
@@ -11746,18 +11750,29 @@ a.thumb-link img{
 .manufact-div{
     text-align:center;
 }
+.product-detail-wrapper{
+    background:#f5f5f5;
+    padding-right:50px;
+    padding-left:50px;
+}
 .product-detail{
     text-align: center;
-    padding-left:80px;
     padding-top:5px;
     padding-bottom:5px;
-    background:#f5f5f5;
     margin-bottom:10px;
     white-space:nowrap;
+    font-size:12px;
 }
 .product-detail li:first-child{
+    /*padding-left:30px;*/
+}
+.product-detail-li-second{
 
 }
+.product-detail li:last-child{
+
+}
+
 .product-detail li a{
     color:black;
     text-decoration: none;
@@ -11798,4 +11813,98 @@ a.thumb-link img{
     display:inline-block;
     vertical-align:top;
 }
-
+.block-subscribe-wrapper{
+    width: 100%;
+    position: relative;
+}
+.main-container,
+.footer-container {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 15px;
+}
+.footer {
+    clear: both;
+    width: 100%;
+    border-top: 1px solid #cccccc;
+    padding-top: 30px;
+    /* -------------------------------------------- *
+     * Social icons
+     */
+}
+.footer .block-subscribe{
+    float:none;
+    margin:0 auto;
+    width:750px;
+}
+.subscribe-discount{
+    float: left;
+    color: #fff;
+    background-color: #00aced;
+    padding: 11px 20px;
+    margin-right: 22px;
+    text-transform:none;
+}
+.newsletter-title{
+    float: left;
+    margin-top:15px;
+    margin-right:10px;
+}
+.newsletter-title span{
+    color:black;
+}
+.footer .block-subscribe .input-box {
+    width: 265px;
+}
+.footer .block-subscribe .newsletter-but{
+    width: 104px;
+    margin-left:10px;
+}
+.footer .block-subscribe .actions .button {
+    float: left;
+    color: #fff;
+    background-color: #00aced;
+    padding: 11px 20px;
+    margin-right: 22px;
+    margin-top: -1px;
+}
+}
+.footer .newsletter-but .button span {
+    color: black;
+    font-size: 10px;
+}
+.footer .block-subscribe .input-text {
+    width: 100%;
+    border: 1px solid silver;
+    background: #FFFFFF;
+}
+.footer .links{
+    margin-top:20px;
+}
+.footer .links a{
+    text-transform: none;
+    color: black;
+}
+.block-title span{
+    font-family:'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: none;
+    color:black;
+}
+.block-subscribe #newsletter{
+    height: 29px;
+    line-height: 29px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    width: 256px;
+    color: black;
+    font-size:12px;
+}
+.newsletter-title span {
+    color: black;
+    font-size:12px;
+    text-transform: none;
+}

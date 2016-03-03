@@ -173,8 +173,10 @@
         //]]>
         </script>
     </div>
-    <div class="product-detail">
-        <?php echo $this->getChildHtml('product_detail') ?>
+    <div class="product-detail-wrapper">
+        <div class="product-detail">
+            <?php echo $this->getChildHtml('product_detail') ?>
+        </div>
     </div>
     <div class="descriptions">
         <?php if ($_product->getShortDescription()):?>
