@@ -85,7 +85,11 @@
                 <action method="addItem"><type>skin_js</type><name>js/jquery.ddslick.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/lightslider.js</name></action>
                 <action method="addItem"><type>skin_js</type><name>js/jquery-ui.js</name></action>
+                <action method="addItem"><type>skin_js</type><name>js/jquery.dd.js</name></action>
+
                 <action method="addCss"><stylesheet>css/jquery-ui.css</stylesheet></action>
+                <action method="addCss"><stylesheet>css/dd.css</stylesheet></action>
+
 
 
 

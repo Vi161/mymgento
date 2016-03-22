@@ -36,11 +36,29 @@
     <div id="myDropdown">
         <label for="select-language"><?php echo $this->__('') ?></label>
         <select id="select-language" title="<?php echo $this->__('Your Language') ?>" onchange="window.location.href=this.value">
+
         <?php foreach ($this->getStores() as $_lang): ?>
             <?php $_selected = ($_lang->getId() == $this->getCurrentStoreId()) ? ' selected="selected"' : '' ?>
-            <option value="<?php echo $_lang->getCurrentUrl() ?>"<?php echo $_selected ?>><?php echo $this->escapeHtml($_lang->getName()) ?></option>
+            <option data-image="<?php echo $this->getSkinUrl()?>images/<?php echo $_lang->getName()?>.png" value="<?php echo $_lang->getCurrentUrl() ?>"<?php echo $_selected ?>><?php echo $this->escapeHtml($_lang->getName()) ?></option>
         <?php endforeach; ?>
         </select>
+<!--        <select name="webmenu" id="webmenu">-->
+<!--            <option value="calendar" data-image="icons/icon_calendar.gif">Calendar</option>-->
+<!--            <option value="shopping_cart" data-image="icons/icon_cart.gif">Shopping Cart</option>-->
+<!--            <option value="cd" data-image="icons/icon_cd.gif">CD</option>-->
+<!--            <option value="email"  selected="selected" title="icons/icon_email.gif">Email</option>-->
+<!--            <option value="faq" data-image="icons/icon_faq.gif">FAQ</option>-->
+<!--            <option value="games" data-image="icons/icon_games.gif">Games</option>-->
+<!--        </select>-->
     </div>
+    <script language="javascript">
+        jQuery(document).ready(function(e) {
+            try {
+                jQuery("body select").msDropDown();
+            } catch(e) {
+                alert(e.message);
+            }
+        });
+    </script>
 </div>
 <?php endif; ?>

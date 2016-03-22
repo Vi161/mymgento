@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd1fc7d-a6e7-4a2e-a565-e92cba54209b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/footer.phtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/template/links.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---737_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---737_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---737_ADMIN_NOTIFICATIONS_LASTCHECK" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---737_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---internal-metadatas---737_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/images/sprite_fix.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/dd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.dd.js" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--4\mage---internal-metadatas---737_FOOTER_LOCALEEN_US" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--6\mage---internal-metadatas---737_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---737_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="" />
+      <change type="DELETED" beforePath="C:\OpenServer\domains\localhost\magento\var\cache\mage--a\mage---internal-metadatas---737_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/rwd/coutie/images/sprite.png" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/images/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_1" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_catalog_product_entity_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_1" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_eav_attribute_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_report_event_1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_report_event_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---internal-metadatas---737_DB_PDO_MYSQL_DDL_report_viewed_product_index_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---737_FOOTER_LOCALEEN_US" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---737_FOOTER_LOCALEEN_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---737_Zend_LocaleC_af_ZA_country_ZA" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---737_Zend_LocaleC_af_ZA_country_ZA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---737_Zend_LocaleC_af_ZA_language_af" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---737_Zend_LocaleC_af_ZA_language_af" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---737_Zend_LocaleC_af_ZA_parentlocale_" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---internal-metadatas---737_Zend_LocaleC_af_ZA_parentlocale_" />
@@ -291,7 +292,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magento.iws" />
@@ -314,37 +314,7 @@
     <favorites_list name="magento" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="subscribe.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="17" selection-start="1011" selection-end="1011" vertical-scroll-proportion="-8.653846" vertical-offset="234" max-vertical-offset="1037">
-              <folding>
-                <element signature="e#6#952#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cms.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/cms.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="33" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.33268103" vertical-offset="391" max-vertical-offset="1938">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11825" column="1" selection-start="256941" selection-end="256941" vertical-scroll-proportion="-10.76" vertical-offset="200756" max-vertical-offset="202572">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -357,15 +327,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/list.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/compare/list.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/widget/new/content/new_list.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view.phtml" />
         <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/View/Type/Configurable.php" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/bundle/catalog/product/view/options/notice.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/options/type/select.phtml" />
         <option value="$PROJECT_DIR$/app/design/adminhtml/default/default/template/bundle/product/composite/fieldset/options/bundle.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/options/wrapper.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/options/wrapper.phtml" />
@@ -377,7 +342,6 @@
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/checkout/cart/item/configure/updatecart.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/options/wrapper/bottom.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/wishlist/shared.phtml" />
-        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-ui.js" />
         <option value="$PROJECT_DIR$/app/code/local/Mage/Catalog/Block/Product/View/Type/Configurable.php" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/1column.phtml" />
@@ -398,16 +362,22 @@
         <option value="$PROJECT_DIR$/app/code/core/Mage/Cms/data/cms_setup/data-install-1.6.0.0.php" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/page/switch/stores.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/directory/currency.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/template/links.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/layout/newsletter.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/footer.phtml" />
-        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" />
         <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/footer.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/template/links.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/options/type/select.phtml" />
+        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-ui.js" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml" />
+        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/dd.css" />
+        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.dd.js" />
+        <option value="$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css" />
+        <option value="$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml" />
       </list>
     </option>
   </component>
@@ -453,663 +423,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="newsletter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rwd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coutie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magento" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/HTML/rustea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../osvetim" />
     <property name="SearchEverywhereHistory" value="&#10;&lt;" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="preferences.updates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\localhost\magento\skin\frontend\rwd\coutie\js" />
       <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\page\html" />
       <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\page\template" />
       <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\tag" />
       <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view" />
-      <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\newsletter" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\localhost\magento\app\design\frontend\rwd\coutie\template\catalog\product\view\type\options" />
@@ -1180,22 +515,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="850" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23627844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2556894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="MagicentoScripts" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33660588" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24615385" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1248,50 +584,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/template/catalog/product/composite/fieldset/configurable.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1864" selection-end="2263" vertical-scroll-proportion="0.37532133" vertical-offset="126" max-vertical-offset="731" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/type/options/configurable.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="1379" selection-end="1744" vertical-scroll-proportion="0.3236715" vertical-offset="87" max-vertical-offset="527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/type/options/configurable.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="11" selection-start="2077" selection-end="2431" vertical-scroll-proportion="0.3115942" vertical-offset="381" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/checkout/cart/item/configure/updatecart.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="3" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.17553191" vertical-offset="53" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/view/options/wrapper/bottom.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="1016" selection-end="1028" vertical-scroll-proportion="0.17480719" vertical-offset="0" max-vertical-offset="389" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/wishlist/shared.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.045212764" vertical-offset="561" max-vertical-offset="1547" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-1.11.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31971" selection-start="96409" selection-end="96409" vertical-scroll-proportion="0.07544379" vertical-offset="0" max-vertical-offset="676">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-ui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="0.10059172" vertical-offset="0" max-vertical-offset="282557" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Mage/Catalog/Block/Product/View/Type/Configurable.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="255" column="64" selection-start="9173" selection-end="9173" vertical-scroll-proportion="0.35549873" vertical-offset="3805" max-vertical-offset="5882" />
@@ -1299,23 +591,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/catalog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="191" column="65" selection-start="10659" selection-end="10660" vertical-scroll-proportion="1.9523809" vertical-offset="2509" max-vertical-offset="7208">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="87" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.71141976" vertical-offset="219" max-vertical-offset="867">
-          <folding />
-        </state>
+        <state line="191" column="65" selection-start="10659" selection-end="10660" vertical-scroll-proportion="1.9523809" vertical-offset="2509" max-vertical-offset="7208" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/1column.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="20" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.51437217" vertical-offset="306" max-vertical-offset="1020">
-          <folding />
-        </state>
+        <state line="63" column="20" selection-start="2335" selection-end="2335" vertical-scroll-proportion="0.51437217" vertical-offset="306" max-vertical-offset="1020" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/varien/configurable.js">
@@ -1325,60 +606,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/catalog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="246" column="54" selection-start="15452" selection-end="15454" vertical-scroll-proportion="0.33281973" vertical-offset="3966" max-vertical-offset="7701">
-          <folding />
-        </state>
+        <state line="246" column="54" selection-start="15452" selection-end="15454" vertical-scroll-proportion="0.33281973" vertical-offset="3966" max-vertical-offset="7701" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/type/default.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.6512821" vertical-offset="222" max-vertical-offset="612">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="28" column="0" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.6512821" vertical-offset="222" max-vertical-offset="612" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list/related.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="34" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.20118344" vertical-offset="0" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="50" selection-start="2335" selection-end="2381" vertical-scroll-proportion="0.35" vertical-offset="430" max-vertical-offset="1326">
-          <folding />
-        </state>
+        <state line="29" column="34" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.20118344" vertical-offset="0" max-vertical-offset="1309" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/checkout/cart/minicart.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="2" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.37278107" vertical-offset="83" max-vertical-offset="663">
-          <folding />
-        </state>
+        <state line="39" column="2" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.37278107" vertical-offset="83" max-vertical-offset="663" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/catalog/product/list.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="16" selection-start="3806" selection-end="3806" vertical-scroll-proportion="-2.1538463" vertical-offset="641" max-vertical-offset="1700">
-          <folding />
-        </state>
+        <state line="68" column="16" selection-start="3806" selection-end="3806" vertical-scroll-proportion="-2.1538463" vertical-offset="641" max-vertical-offset="1700" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/addto.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1079" selection-end="1079" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
+        <state line="29" column="0" selection-start="1079" selection-end="1079" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/view/addto.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="11" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.234714" vertical-offset="0" max-vertical-offset="507">
-          <folding />
-        </state>
+        <state line="30" column="11" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.234714" vertical-offset="0" max-vertical-offset="507" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/review/product/view/list.phtml">
@@ -1393,11 +651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/review/product/view/list.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.034979425" vertical-offset="459" max-vertical-offset="1581">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="28" column="0" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.034979425" vertical-offset="459" max-vertical-offset="1581" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/tag/list.phtml">
@@ -1407,285 +661,185 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/tag/list.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.10493827" vertical-offset="0" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="26" column="0" selection-start="957" selection-end="957" vertical-scroll-proportion="0.10493827" vertical-offset="0" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/catalog/product/list/upsell.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="12" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.035940804" vertical-offset="459" max-vertical-offset="1105">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="28" column="12" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.035940804" vertical-offset="459" max-vertical-offset="1105" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/list/related.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.35714287" vertical-offset="384" max-vertical-offset="1513">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="3" selection-start="3031" selection-end="3031" vertical-scroll-proportion="0.24330357" vertical-offset="809" max-vertical-offset="1734">
-          <folding />
-        </state>
+        <state line="32" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.35714287" vertical-offset="384" max-vertical-offset="1513" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/page/html/footer.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="144" selection-start="1199" selection-end="1201" vertical-scroll-proportion="0.22818792" vertical-offset="0" max-vertical-offset="447">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/template/links.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="27" selection-start="774" selection-end="774" vertical-scroll-proportion="-4.576923" vertical-offset="238" max-vertical-offset="918">
-          <folding>
-            <element signature="e#962#1008#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="29" column="144" selection-start="1199" selection-end="1201" vertical-scroll-proportion="0.22818792" vertical-offset="0" max-vertical-offset="447" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Page/Block/Html/Notices.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="38" selection-start="1648" selection-end="1648" vertical-scroll-proportion="1.1567011" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="56" column="38" selection-start="1648" selection-end="1648" vertical-scroll-proportion="1.1567011" vertical-offset="0" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Cms/data/cms_setup/data-install-1.6.0.0.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="943" selection-end="1360" vertical-scroll-proportion="0.110869564" vertical-offset="391" max-vertical-offset="6477">
-          <folding>
-            <element signature="e#6#941#0" expanded="false" />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1456828930734" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="26" column="0" selection-start="943" selection-end="1360" vertical-scroll-proportion="0.110869564" vertical-offset="391" max-vertical-offset="6477" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/locale/de_DE/Mage_Page.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="156" selection-start="4415" selection-end="4415" vertical-scroll-proportion="2.6236787" vertical-offset="0" max-vertical-offset="1496" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="156" selection-start="4415" selection-end="4415" vertical-scroll-proportion="2.6236787" vertical-offset="0" max-vertical-offset="1496">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/page/switch/stores.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1952" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
-          <folding>
-            <element signature="e#6#953#0" expanded="false" />
-            <element signature="e#963#1039#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="1952" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/directory/currency.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="0" selection-end="1731" vertical-scroll-proportion="0.9555085" vertical-offset="161" max-vertical-offset="867">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-            <element signature="e#962#1031#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="36" column="0" selection-start="0" selection-end="1731" vertical-scroll-proportion="0.9555085" vertical-offset="161" max-vertical-offset="867" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="23" selection-start="6295" selection-end="6295" vertical-scroll-proportion="0.33268103" vertical-offset="5457" max-vertical-offset="6902">
-          <folding />
-        </state>
+        <state line="331" column="23" selection-start="6295" selection-end="6295" vertical-scroll-proportion="0.33268103" vertical-offset="5457" max-vertical-offset="6902" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/checkout.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="55" selection-start="2767" selection-end="2767" vertical-scroll-proportion="-0.02008032" vertical-offset="979" max-vertical-offset="9282">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/template/links.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="26" selection-start="1569" selection-end="1569" vertical-scroll-proportion="-11.769231" vertical-offset="408" max-vertical-offset="918">
-          <folding>
-            <element signature="e#6#952#0" expanded="false" />
-            <element signature="e#962#1008#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="52" selection-start="2992" selection-end="2992" vertical-scroll-proportion="1.8728814" vertical-offset="0" max-vertical-offset="1564">
-          <folding />
-        </state>
+        <state line="57" column="55" selection-start="2767" selection-end="2767" vertical-scroll-proportion="-0.02008032" vertical-offset="979" max-vertical-offset="9282" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/pager.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="27" selection-start="2732" selection-end="2733" vertical-scroll-proportion="0.33333334" vertical-offset="650" max-vertical-offset="1853">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="10" selection-start="10049" selection-end="10049" vertical-scroll-proportion="-4.42" vertical-offset="2601" max-vertical-offset="4709">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="175" column="16" selection-start="7344" selection-end="7366" vertical-scroll-proportion="-3.254902" vertical-offset="2418" max-vertical-offset="3281">
-          <folding />
-        </state>
+        <state line="74" column="27" selection-start="2732" selection-end="2733" vertical-scroll-proportion="0.33333334" vertical-offset="650" max-vertical-offset="1853" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/catalog.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="18" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.4397463" vertical-offset="880" max-vertical-offset="7820">
-          <folding />
-        </state>
+        <state line="64" column="18" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.4397463" vertical-offset="880" max-vertical-offset="7820" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/customer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="8" selection-start="1733" selection-end="1963" vertical-scroll-proportion="0.43574297" vertical-offset="684" max-vertical-offset="5202">
-          <folding />
-        </state>
+        <state line="53" column="8" selection-start="1733" selection-end="1963" vertical-scroll-proportion="0.43574297" vertical-offset="684" max-vertical-offset="5202" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/newsletter.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="20" selection-start="1316" selection-end="1316" vertical-scroll-proportion="-7.64" vertical-offset="472" max-vertical-offset="1241">
-          <folding />
-        </state>
+        <state line="39" column="20" selection-start="1316" selection-end="1316" vertical-scroll-proportion="-7.64" vertical-offset="472" max-vertical-offset="1241" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/footer.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="987" selection-end="1147" vertical-scroll-proportion="0.14020619" vertical-offset="0" max-vertical-offset="485">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11825" column="1" selection-start="256941" selection-end="256941" vertical-scroll-proportion="-10.76" vertical-offset="200756" max-vertical-offset="202572">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="987" selection-end="1147" vertical-scroll-proportion="0.14020619" vertical-offset="0" max-vertical-offset="485" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/footer.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="43" selection-start="1020" selection-end="1055" vertical-scroll-proportion="0.17525773" vertical-offset="0" max-vertical-offset="485">
-          <folding />
-        </state>
+        <state line="28" column="43" selection-start="1020" selection-end="1055" vertical-scroll-proportion="0.17525773" vertical-offset="0" max-vertical-offset="485" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/template/links.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="17" selection-start="1011" selection-end="1011" vertical-scroll-proportion="-8.653846" vertical-offset="234" max-vertical-offset="1037">
-          <folding>
-            <element signature="e#6#952#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="33" column="19" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.3516949" vertical-offset="361" max-vertical-offset="884" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/layout/cms.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="33" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.33268103" vertical-offset="391" max-vertical-offset="1938">
-          <folding />
-        </state>
+        <state line="23" column="66" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1938" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/template/links.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="2106" selection-end="2106" vertical-scroll-proportion="0.6015385" vertical-offset="0" max-vertical-offset="650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/mobile_menu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="44" selection-start="633" selection-end="633" vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/newsletter/subscribe.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="88" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.63384616" vertical-offset="13" max-vertical-offset="663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/media.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="16" selection-start="3191" selection-end="3191" vertical-scroll-proportion="0.9298969" vertical-offset="331" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/options/type/select.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="10" selection-start="1791" selection-end="1791" vertical-scroll-proportion="0.54025424" vertical-offset="0" max-vertical-offset="472" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/default/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="26" selection-start="2014" selection-end="2014" vertical-scroll-proportion="0.3516949" vertical-offset="310" max-vertical-offset="1564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/default.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="511" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="0.034136545" vertical-offset="0" max-vertical-offset="282506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="58" selection-start="5572" selection-end="5572" vertical-scroll-proportion="0.842" vertical-offset="1109" max-vertical-offset="4777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="41" selection-start="8942" selection-end="8945" vertical-scroll-proportion="0.62138087" vertical-offset="2832" max-vertical-offset="3281" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/topmenu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="23" selection-start="1026" selection-end="1030" vertical-scroll-proportion="0.2650334" vertical-offset="0" max-vertical-offset="1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/dd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/js/jquery.dd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/page/switch/languages.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="13" selection-start="2666" selection-end="2666" vertical-scroll-proportion="0.74691355" vertical-offset="451" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/rwd/coutie/template/catalog/product/view/type/options/configurable.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="8" selection-start="2553" selection-end="2559" vertical-scroll-proportion="0.71141976" vertical-offset="219" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/frontend/rwd/coutie/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12040" column="26" selection-start="261135" selection-end="261135" vertical-scroll-proportion="0.82344216" vertical-offset="204125" max-vertical-offset="204799" />
       </provider>
     </entry>
   </component>
